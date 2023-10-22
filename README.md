@@ -29,17 +29,17 @@ Fungsi main() adalah titik masuk aplikasi, yang memanggil fungsi runApp() untuk 
 Setiap tombol dibuat menggunakan widget tertentu, seperti FloatingActionButton, DropdownButton, IconButton, PopupMenuButton, ElevatedButton, TextButton, OutlinedButton, ToggleButtons, dan Checkbox. Setiap widget memiliki serangkaian properti dan fungsi yang menentukan perilaku dan tampilannya. Sebagai contoh, widget FloatingActionButton memiliki properti onPressed yang mendefinisikan apa yang terjadi saat tombol ditekan, dan properti anak yang mendefinisikan ikon yang muncul pada tombol. Demikian pula, widget DropdownButton memiliki properti items yang mendefinisikan daftar item yang muncul di menu tarik-turun, dan properti onChanged yang mendefinisikan apa yang terjadi saat item dipilih.
 
 Sitasi:
-[1] https://docs.flutter.dev/ui/design/material
-[2] https://m3.material.io/develop/flutter
-[3] https://docs.flutter.dev/ui/widgets/material
-[4] https://m2.material.io/develop/flutter
-[5] https://www.geeksforgeeks.org/flutter-material-design/
-[6] https://blog.codemagic.io/migrating-a-flutter-app-to-material-3/
-[7] https://stackoverflow.com/questions/72640150/getting-error-while-running-flutter-application-using-android-studio
-[8] https://docs.flutter.dev/ui/interactivity
-[9] https://api.flutter.dev/flutter/widgets/StatelessWidget-class.html
-[10] https://github.com/flutter/flutter/issues/33566
-[11] https://www.geeksforgeeks.org/flutter-stateful-vs-stateless-widgets/
+- [1] https://docs.flutter.dev/ui/design/material
+- [2] https://m3.material.io/develop/flutter
+- [3] https://docs.flutter.dev/ui/widgets/material
+- [4] https://m2.material.io/develop/flutter
+- [5] https://www.geeksforgeeks.org/flutter-material-design/
+- [6] https://blog.codemagic.io/migrating-a-flutter-app-to-material-3/
+- [7] https://stackoverflow.com/questions/72640150/getting-error-while-running-flutter-application-using-android-studio
+- [8] https://docs.flutter.dev/ui/interactivity
+- [9] https://api.flutter.dev/flutter/widgets/StatelessWidget-class.html
+- [10] https://github.com/flutter/flutter/issues/33566
+- [11] https://www.geeksforgeeks.org/flutter-stateful-vs-stateless-widgets/
 
 ## 🔗 Link Data Diri
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anugrahak)
